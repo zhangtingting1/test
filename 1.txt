@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sfhsfhs
+=======
+fsfsdfsdfsdfs:wq
+sfhsfhs
+>>>>>>> fenzhi
